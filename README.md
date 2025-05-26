@@ -1,4 +1,4 @@
-# Karim Karam A
+# Karim Karam 
 ### Visionary Information Security Expert & Pioneer in AI-Driven Cyber Defense
 
 Highly accomplished and deeply certified, I am an Information Security Expert at the vanguard of penetration testing, secure software architecture, and next-generation security analytics. My specialization lies in crafting bespoke, AI-augmented security tools and frameworks, primarily leveraging Python, to address complex, evolving cyber threats. My distinctive academic background in Law and Legal Studies imbues my technical expertise with a profound understanding of GRC, regulatory landscapes, and the ethical dimensions of cybersecurity. I am passionately committed to engineering resilient security paradigms and advancing the art of digital protection.
