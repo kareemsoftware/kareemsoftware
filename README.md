@@ -1,4 +1,4 @@
-# Karim Karam 
+# Karim Karam A
 ### Visionary Information Security Expert & Pioneer in AI-Driven Cyber Defense
 
 Highly accomplished and deeply certified, I am an Information Security Expert at the vanguard of penetration testing, secure software architecture, and next-generation security analytics. My specialization lies in crafting bespoke, AI-augmented security tools and frameworks, primarily leveraging Python, to address complex, evolving cyber threats. My distinctive academic background in Law and Legal Studies imbues my technical expertise with a profound understanding of GRC, regulatory landscapes, and the ethical dimensions of cybersecurity. I am passionately committed to engineering resilient security paradigms and advancing the art of digital protection.
@@ -90,101 +90,132 @@ My commitment to excellence is underscored by an extensive portfolio of globally
 *(Full verification via <a href="https://www.credly.com/users/karim-karam-ahmed-ali/badges" target="_blank">Credly</a> & <a href="https://api.badgr.io/public/collections/e02f6b1179764464b39c7eca6d29e4ac" target="_blank">Badgr</a>.)*
 
 <details>
-<summary>🏆 <strong>Distinguished High-Technology Certifications (Comprehensive List)</strong></summary>
-<div style="padding-left: 20px; column-count: 2; column-gap: 40px;">
+<summary>🏆 <strong>Distinguished High-Technology Certifications (Full List)</strong></summary>
+<div style="padding-left: 20px;">
 
-**I. Python, Data Science & Analytics:**
-*   Python Essentials – Microsoft
-*   Python Programming – ITI
-*   Python Essentials (L1 & L2) – Cisco
-*   Data Analytics Essentials – Cisco
-*   Data Analysis with Python (L1-2) – IBM
-*   Python for Data Science – IBM
-*   Data Visualization with Python – IBM
-*   Data Science & Analytics – HP
-*   Data Analysis – Microsoft
-*   Power BI – Microsoft
-*   Advanced Google Analytics – Google
-*   SEO Toolkit – SEMrush
-*   Database Fundamentals – ITI
+**I. Python, Data Science & Advanced Analytics:**
+<ul>
+  <li>Python Essentials – Microsoft</li>
+  <li>Python Programming – Ministry of Communications and IT (ITI)</li>
+  <li>Python Essentials (Level 1 & 2) – Cisco</li>
+  <li>Data Analytics Essentials – Cisco</li>
+  <li>Data Analysis with Python (Level 1-2) – IBM</li>
+  <li>Python for Data Science – IBM</li>
+  <li>Data Visualization with Python – IBM</li>
+  <li>Data Science & Analytics – HP Foundation</li>
+  <li>Data Analysis – Microsoft</li>
+  <li>Power BI – Microsoft</li>
+  <li>Advanced Google Analytics – Google</li>
+  <li>SEO Toolkit – SEMrush Academy</li>
+  <li>Database Fundamentals – Ministry of Communications and IT (ITI)</li>
+</ul>
 
-**II. AI & ML in Security:**
-*   Intro to AI – AWS
-*   AI Skills – Future Learn
-*   AI – ITI
-*   AI Security & Governance - Securiti
+**II. Artificial Intelligence & Machine Learning in Security:**
+<ul>
+  <li>Introduction to Artificial Intelligence – AWS</li>
+  <li>Artificial Intelligence Skills – Future Learn Academy</li>
+  <li>Artificial Intelligence – Ministry of Communications and IT (ITI)</li>
+  <li>AI Security & Governance Certification - Securiti academy</li>
+</ul>
 
-**III. Secure Software Development:**
-*   SSDLC – ITI
+**III. Secure Software Development Lifecycle (SSDLC):**
+<ul>
+  <li>Secure Software Development Lifecycle (SSDLC) – Ministry of Communications and IT (ITI)</li>
+</ul>
 
-**IV. Systems, Networking & Linux:**
-*   IT-System Admin – ITI
-*   Networking Basics – Cisco
-*   Intro to Network Security - ITI
-*   Network Fundamentals Impl. - ITI
-*   Network Technician – Cisco
-*   Network Devices & Config – Cisco
-*   Network Virtualization – VMware
-*   Network Fundamentals - ITI
-*   OS Basics – Cisco
-*   NDE Linux Essentials – Cisco
-*   Intro to Linux (LSF101) – Linux Fdn.
-*   Linux Kernel Dev (LFD103) – Linux Fdn.
-*   Linux Essentials (Ubuntu) – ITI
-*   PRNE - Cisco
-*   Comp. Comm. & Networks -Saylor
+**IV. IT Systems, Advanced Networking & Linux Engineering:**
+<ul>
+  <li>IT-System Admin – Ministry of Communications and IT (ITI)</li>
+  <li>Networking Basics – Cisco</li>
+  <li>Introduction to Network Security - Ministry of Communications and IT (ITI)</li>
+  <li>Implementation of Computer Network Fundamentals - Ministry of Communications and IT (ITI)</li>
+  <li>Network Technician – Cisco</li>
+  <li>Networking Devices & Initial Configurations – Cisco</li>
+  <li>Network Virtualization Concepts – VMware IT Academy</li>
+  <li>Computer Network Fundamentals - Ministry of Communications and IT (ITI)</li>
+  <li>Operating Systems Basics – Cisco</li>
+  <li>NDE Linux Essentials – Cisco</li>
+  <li>Introduction to Linux (LSF101) – Linux Foundation</li>
+  <li>Guide to Linux Kernel Development (LFD103) – Linux Foundation</li>
+  <li>Linux Essentials (Ubuntu/Debian) – Ministry of Communications and IT (ITI)</li>
+  <li>Programming for Network Engineers (PRNE) - Cisco</li>
+  <li>Computer communication and networks cs402 -Saylor academy</li>
+</ul>
 
-**V. Cybersecurity, Cloud & Infra.:**
-*   Intro to Cybersecurity – Cisco
-*   Cybersecurity Fund. – Palo Alto
-*   Network Security Fund. – Palo Alto
-*   Cybersecurity Fund. – IBM
-*   Cybersecurity Fund. Entry – Kaspersky
-*   Cybersecurity & Cloud – Oracle
-*   Critical Infra. Protection- OPSWAT
-*   Azure Management – Microsoft
-*   Power Protect Cyber Recovery – Dell
+**V. Cybersecurity Fundamentals, Cloud & Critical Infrastructure Security:**
+<ul>
+  <li>Introduction to Cybersecurity – Cisco</li>
+  <li>Cybersecurity Fundamentals – Palo Alto Networks Academy</li>
+  <li>Network Security Fundamentals – Palo Alto Networks Academy</li>
+  <li>Cybersecurity Fundamentals – IBM</li>
+  <li>Cybersecurity Fundamentals Entry Level – Kaspersky Academy</li>
+  <li>Cybersecurity & Cloud Security – Oracle</li>
+  <li>Introduction in critical infrastructure protection- OPSWAT Academy</li>
+  <li>Azure Management – Microsoft</li>
+  <li>Power Protect Cyber Recovery Concepts – Dell Technologies</li>
+</ul>
 
-**VI. Offensive Security & Pentesting:**
-*   Ethical Hacker (EHE) – EC-Council
-*   Ethical Hacker – Cisco
-*   Ethical Hacking – ITI
-*   Pentesting & Ethical Hacking – CYBRARY
-*   Offensive Pentesting – CYBRARY
-*   Dev. Ethical Hacking Tools (Python) – CYBRARY
-*   Android Bug Bounty – EC-Council
-*   SQL Injection Attacks – EC-Council
-*   Pentesting Engineer -Alison
+**VI. Offensive Security: Ethical Hacking, Penetration Testing & Adversarial Tactics:**
+<ul>
+  <li>Ethical Hacker (EHE) – EC-Council</li>
+  <li>Ethical Hacker – Cisco</li>
+  <li>Ethical Hacking (Verified) – Ministry of Communications and IT (ITI)</li>
+  <li>Penetration Testing & Ethical Hacking – CYBRARY</li>
+  <li>Offensive Penetration Testing – CYBRARY</li>
+  <li>Developing Ethical Hacking Tools with Python– CYBRARY</li>
+  <li>Android Bug Bounty Hunting – EC-Council</li>
+  <li>SQL Injection Attacks – EC-Council</li>
+  <li>Penetration Testing Engineer -Alison Academy</li>
+</ul>
 
-**VII. AppSec & Threat Management:**
-*   OWASP TOP10 (Web) – ITI
-*   OWASP TOP10 (Mobile) – ITI
-*   Mobile, IoT, OT Hacking– CYBRARY
-*   Cyber Threat Management – Cisco
+**VII. Application Security (Web/Mobile) & Advanced Threat Management:**
+<ul>
+  <li>OWASP TOP10 (Web Cybersecurity) – Ministry of Communications and IT (ITI)</li>
+  <li>OWASP TOP10 (Mobile) – Ministry of Communications and IT (ITI)</li>
+  <li>Mobile Platform, IoT, and OT Hacking– CYBRARY</li>
+  <li>Cyber Threat Management – Cisco</li>
+</ul>
 
-**VIII. Cyber Analysis & Forensics:**
-*   Junior Cybersecurity Analyst – Cisco
-*   Cybersecurity Engineer – ITI
-*   CISSP – CYBRARY (Training)
-*   Network Defense – Cisco
-*   Endpoint Security – Cisco
-*   Advanced Digital Forensics – Open Uni.
+**VIII. Cybersecurity Analysis, Digital Forensics & Core Defensive Principles:**
+<ul>
+  <li>Junior Cybersecurity Analyst – Cisco</li>
+  <li>Cybersecurity Engineer – Ministry of Communications and IT (ITI)</li>
+  <li>Certified Information Systems Security Professional (CISSP) – CYBRARY (Training)</li>
+  <li>Network Defense – Cisco</li>
+  <li>Endpoint Security – Cisco</li>
+  <li>Advanced Digital Forensics – The Open University</li>
+</ul>
 </div>
 <br/>
-<strong>Recognized Technical Badge Issuers (Select):</strong>
-Microsoft, Cisco, IBM, Oracle, Palo Alto, Linux Foundation, EC-Council, AWS, Google, VMware, ITI.
+<strong>Recognized Technical Badge Issuing Organizations (Highlights):</strong>
+Microsoft, Cisco, VMware, IBM, Oracle, Palo Alto Networks, Kaspersky Academy, Ministry of Communications and IT (ITI), Linux Foundation, EC-Council, Google, SEMrush Academy, AWS, Future Learn Academy, CYBRARY, The Open University, Dell Technologies, OPSWAT Academy, Securiti academy, Saylor Academy, Alison Academy, HP Foundation, UNICEF.
 </details>
 
 <details>
-<summary>📈 <strong>Strategic Management & Business Acumen</strong></summary>
+<summary>📈 <strong>Strategic Management & Business Acumen Certifications (Full List)</strong></summary>
 <div style="padding-left: 20px;">
 <p>Augmenting technical expertise with robust competencies in leadership, strategy, and business operations:</p>
 <ul>
-    <li>Human Resources Management (Diploma & Cert.)</li>
-    <li>Strategic & People Management</li>
-    <li>Innovation & Sustainability</li>
-    <li>Business Intelligence & Product Management</li>
-    <li>Advanced Decision-Making</li>
+  <li>Diploma in Human Resources Management – Alison Academy</li>
+  <li>HR Management Certification – Saylor Academy</li>
+  <li>HR Professional Skills – The Open University</li>
+  <li>People Management Certification – Udemy Academy</li>
+  <li>Strategic Management – Saylor Academy</li>
+  <li>Fundamentals of Accounting – Udemy</li>
+  <li>Success Mindset – HP Foundation</li>
+  <li>Advanced Decision-Making – The Open University</li>
+  <li>Innovation & Sustainability – Saylor Academy</li>
+  <li>Information Management Essentials – UNICEF</li>
+  <li>Business Intelligence & Knowledge Management – Alison Academy</li>
+  <li>Documenting Business Processes & Information Systems – Alison Academy</li>
+  <li>Basic Study Skills – Alison Academy</li>
+  <li>Business Start-ups – Alison Academy</li>
+  <li>Product Management – Udemy</li>
+  <li>Closing the Marketing-Sales Gap – Udemy</li>
+  <li>Art of Negotiation – Alison Academy</li>
+  <li>Political Science – Saylor Academy</li>
+  <li>Educator Academy – Microsoft</li>
+  <li>Freelancing Basics – Ministry of Communications and IT (ITI)</li>
 </ul>
 </div>
 </details>
